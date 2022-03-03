@@ -123428,3 +123428,16 @@
     "patch": 3
   }
 }
+{
+      "chainId": 101,
+      "address": "J4Z7xZSNucAqXTFzjzHxqpvJiwQwixxsygsWGnibw7h1",
+      "symbol": "BEEP",
+      "name": "BEEP Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/LoonKats/token-list/main/cc6f69cf.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "BEEP is a utility token."
+      }
